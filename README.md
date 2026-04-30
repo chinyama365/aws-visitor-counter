@@ -4,7 +4,7 @@ This is a serverless web application that tracks website visits using AWS.
 
 ## 🌐 Live Demo
 
-(http://brian-visitor-counter-2026.s3-website-us-east-1.amazonaws.com/)
+(http://visitor-counter-site-2026.s3-website-us-east-1.amazonaws.com/)
 
 ## 🧰 Technologies Used
 
